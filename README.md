@@ -7,3 +7,8 @@ How to activate a virtual environment:
 
 cmd.exe /k ""%CD%\venv\Scripts\activate"
 
+Future ideas...
+
+Containerize the app :)
+
+https://semaphoreci.com/community/tutorials/dockerizing-a-python-django-web-application
