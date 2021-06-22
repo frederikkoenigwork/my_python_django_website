@@ -1,4 +1,4 @@
-# my_python_django_website
+# My Pyton Website using Django :)
 
 
 Nice tutorial: https://www.youtube.com/watch?v=pLN-OnXjOJg
